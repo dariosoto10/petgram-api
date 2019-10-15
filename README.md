@@ -1,3 +1,14 @@
-# curso-platzi-react-avanzado ⚛️
+# Petgram API - GRAPHQL 🐶
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+## deploy url
+https://petgram-api-o88rtapl3.now.sh 
+
+## Download dependencies
+```
+    npm install 
+```
+
+## Run dev environment
+```
+    npm dev:api
+```
